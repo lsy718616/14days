@@ -1,0 +1,11 @@
+# 忽略工作区中的 Git for Windows 安装目录（非项目源码）
+/Git/
+
+# 本机 TLS 证书辅助目录（本地环境专用）
+/.dsh-certs/
+
+# 常见垃圾文件
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
